@@ -47,7 +47,6 @@ export default {
         onChangeOff() {
             this.showOffice = true;
             this.showService = false;
-
         },
         onChangeSer() {
             this.showService = true;
